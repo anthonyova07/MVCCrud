@@ -1,0 +1,12 @@
+A:\MVCCrud\bin\Debug\netcoreapp2.0\app.db
+A:\MVCCrud\bin\Debug\netcoreapp2.0\MVCCrud.deps.json
+A:\MVCCrud\bin\Debug\netcoreapp2.0\MVCCrud.runtimeconfig.json
+A:\MVCCrud\bin\Debug\netcoreapp2.0\MVCCrud.runtimeconfig.dev.json
+A:\MVCCrud\bin\Debug\netcoreapp2.0\MVCCrud.dll
+A:\MVCCrud\bin\Debug\netcoreapp2.0\MVCCrud.pdb
+A:\MVCCrud\obj\Debug\netcoreapp2.0\MVCCrud.csproj.CoreCompileInputs.cache
+A:\MVCCrud\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+A:\MVCCrud\obj\Debug\netcoreapp2.0\MVCCrud.AssemblyInfoInputs.cache
+A:\MVCCrud\obj\Debug\netcoreapp2.0\MVCCrud.AssemblyInfo.cs
+A:\MVCCrud\obj\Debug\netcoreapp2.0\MVCCrud.dll
+A:\MVCCrud\obj\Debug\netcoreapp2.0\MVCCrud.pdb
